@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+:root {
+  --Primary-500---Accent: #2196F3;
+  --Primary-600: #1E88E5;
+  --White-High-Emphasis: #FFF;
+  --White-Medium-Emphasis: rgba(255, 255, 255, 0.70);
+}
+body {
+  font-family: "Roboto", serif;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  min-width: 375px;
+}
+a {
+  text-decoration: none;
+}
+button {
+  background: none;
+  border: none;
+}

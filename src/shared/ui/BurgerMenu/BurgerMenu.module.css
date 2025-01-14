@@ -1,0 +1,11 @@
+.burgerMenu {
+    display: none;
+}
+.menu {
+    display: flex;
+}
+@media (max-width: 1024px) {
+    .burgerMenu {
+        display: flex;
+    }
+}

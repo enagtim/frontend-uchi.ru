@@ -1,0 +1,14 @@
+.tab {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px; 
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.25px;
+    color: var(--White-Medium-Emphasis);
+}
+.active {
+    background-color: var(--Primary-600);
+    color: var(--White-High-Emphasis);
+}
